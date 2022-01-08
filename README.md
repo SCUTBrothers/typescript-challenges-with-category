@@ -17,4 +17,4 @@ npm install @type-challenges/utils --save-dev
 [TypeScript: Handbook - Typescript官网文档](https://www.typescriptlang.org/docs/handbook/intro.html)
 - 书籍(电子档资源链接: [前端面试指南](https://observant-theater-abd.notion.site/0dc5c936355b49b4887e25855e714881)): 
   - <Typescript编程>
-  - <深入理解Typescript>
+  - <<深入理解Typescript>>
